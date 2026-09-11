@@ -10,3 +10,5 @@ console.log("The square of a is: " + (a * a));
 
 console.log("The cube of a is: " + (a * a * a));
 console.log("The fourth power of a is: " + (a * a * a * a));
+
+console.log("The fifth power of a is: " + (a * a * a * a * a));
